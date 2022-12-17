@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 
+
+I'm Vibhav Rajkumar, an undergrad at the University of Illinois at Urbana-Champaign. Here, you'll see some projects that I have been working on in various areas, such as app development, full-stack development, AI, and graph algorithms. I'm open to work in internship roles in any fields, but am particularly interested in full-stack development and cloud services. Feel free to connect with me on LinkedIn! 
+
+[LinkedIn](http://linkedin.com/in/vibhav-r) 
+
 
 <!--
 **vibhavrajkumar/vibhavrajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
