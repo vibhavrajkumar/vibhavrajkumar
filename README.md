@@ -1,6 +1,6 @@
 ### Hello! 
 
-I'm Vibhav Rajkumar, an undergrad at the University of Illinois at Urbana-Champaign. Here, you'll see some projects that I have been working on in various areas, such as app development, full-stack development, AI, and graph algorithms. Feel free to connect with me on LinkedIn! 
+I'm Vibhav Rajkumar, an undergrad at the University of Illinois at Urbana-Champaign. Here, you'll see some projects that I have been working on in various areas, such as app development, full-stack development, ML, and graph algorithms. Feel free to connect with me on LinkedIn! 
 
 [LinkedIn](http://linkedin.com/in/vibhav-r) 
 
